@@ -2,7 +2,12 @@
     background-color: gray;
     height: 200px;
     display: flex;
+    justify-content: center;    
     align-items: center;
+}
+
+h1,h2,h3,p{
+    font-size: 2em;
 }
 
 .left,
